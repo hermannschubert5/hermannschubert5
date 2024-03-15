@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hermannschubert5
+- 👀 I’m interested in javascript
+- 🌱 I’m currently learning javascript
